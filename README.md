@@ -36,7 +36,7 @@ pip install pandas numpy matplotlib
 I did this Project both in Jupyter Notebook and Google Colab for interactive exploration.
 
 In Jupyter Notebook using Data Quest Work Area and Submitted through that Now also uploaded through post the progress on Twitter, Instagram and Facebook.
-to view Click here:[Star Wars](https://youtu.be/jzP4eg5Yfxo?si=9qOwS613SV8vjcjW)
+To View Click here:[Star Wars](https://youtu.be/jzP4eg5Yfxo?si=9qOwS613SV8vjcjW)
 
 In Google Colab to upload in GitHub , and also upload .csv file for providing the data
 Google Colab Link :[Star Wars Survey Analysis](https://colab.research.google.com/drive/1lszd3sEtKjIIashfMoJ8f6ynF40Ed83q?usp=sharing)
