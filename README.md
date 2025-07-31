@@ -35,9 +35,10 @@ pip install pandas numpy matplotlib
 ```
 I did this Project both in Jupyter Notebook and Google Colab for interactive exploration.
 
-In Jupyter Notebook using Data Quest Work Area and Submitted through that Now also uploaded through post the progress on Twitter and Facebook , Currently having trouble in LinkedIn cause of Pakistani CNIC is not in English ,can't prove not fake .
+In Jupyter Notebook using Data Quest Work Area and Submitted through that Now also uploaded through post the progress on Twitter and Facebook.
 
 In Google Colab to upload in GitHub , and also upload .csv file for providing the data
+Google Colab Link :[Star Wars Survey Analysis](https://colab.research.google.com/drive/1lszd3sEtKjIIashfMoJ8f6ynF40Ed83q?usp=sharing)
 
 
 
